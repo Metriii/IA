@@ -1,4 +1,4 @@
-# atividade-nim
+# IA
 
 Atividades de Inteligência Artificial (CS50 AI) — implementações em Python.
 
